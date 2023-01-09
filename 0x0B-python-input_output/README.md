@@ -1,1 +1,1 @@
-# Solutions to tasks on Python - Input/Output
+# Solutions to tasks on Python - Input/Output.
