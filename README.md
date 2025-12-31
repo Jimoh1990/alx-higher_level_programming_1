@@ -6,4 +6,4 @@ Python is the primary language we are going to be using.
 Hence, this repo will contain all the solutions I submit for our daily tasks.
 
 ## Author
-Dr. Ehoneah Obed
+Jimoh Sikiru
